@@ -77,7 +77,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Jaehyeok's Personal Website"
+      text: "Jaehyeok Ryu"
       icon: favicon.ico
       iconHeight: 18
 
