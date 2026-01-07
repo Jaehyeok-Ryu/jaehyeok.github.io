@@ -2,7 +2,7 @@
 title: "Kubism: Disassembling and Reassembling K-Means Clustering for Mobile Heterogeneous Platforms"
 date: 2025-06-13
 tags: ["k-means","heterogeneous computing","mobile platforms","embedded"]
-author: ["Seondeok Kim","Sangun Choi","Jaebeom Jeon","Junsu Kim","Minseong Gil","Jaehyeok Ryu","Yunho Oh"]
+author: ["Seondeok Kim","Sangun Choi","Jaebeom Jeon","Junsu Kim","Minseong Gil","**Jaehyeok Ryu**","Yunho Oh"]
 description: "An English summary and metadata for 'Kubism', a software technique that improves K-means performance on mobile heterogeneous platforms."
 summary: "Kubism disassembles and reassembles the K-means algorithm to better utilize CPU and GPU resources on mobile heterogeneous platforms, achieving up to 2.65× speedup per iteration and an average 1.23× end-to-end improvement on NVIDIA Jetson Orin AGX."
 cover:

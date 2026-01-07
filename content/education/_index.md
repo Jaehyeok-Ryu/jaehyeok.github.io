@@ -3,6 +3,8 @@ title: "Education"
 description: ""
 ---
 
+## Education
+
 ### Mar. 2026 - 
 Integrated M.S./Ph.D. in the Department of Electrical and Computer Engineering, Korea University, Seoul, Korea
 
