@@ -6,9 +6,6 @@ author: ["Seondeok Kim","Sangun Choi","Jaebeom Jeon","Junsu Kim","Minseong Gil",
 description: "An English summary and metadata for 'Kubism', a software technique that improves K-means performance on mobile heterogeneous platforms."
 summary: "Kubism disassembles and reassembles the K-means algorithm to better utilize CPU and GPU resources on mobile heterogeneous platforms, achieving up to 2.65× speedup per iteration and an average 1.23× end-to-end improvement on NVIDIA Jetson Orin AGX."
 cover:
-    image: "paper1.png"
-    alt: "Kubism overview"
-    relative: false
 doi: "10.1145/3735452.3735537"
 ---
 
