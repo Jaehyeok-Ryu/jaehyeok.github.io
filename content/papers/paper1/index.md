@@ -1,5 +1,4 @@
 ---
----
 title: "Kubism: Disassembling and Reassembling K-Means Clustering for Mobile Heterogeneous Platforms"
 date: 2025-06-13
 tags: ["k-means","heterogeneous computing","mobile platforms","embedded"]
